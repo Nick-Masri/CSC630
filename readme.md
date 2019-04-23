@@ -14,3 +14,6 @@ https://github.com/lmaertens/csc630-sample-project
 
 Design Challenge 3: 
 https://github.com/Nick-Masri/CSC630-Design-Challenge-3
+
+Design Challenge 4:
+https://github.com/Nick-Masri/CSC630-Design-Challenge-4
